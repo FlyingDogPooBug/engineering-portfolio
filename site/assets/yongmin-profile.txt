@@ -1,0 +1,126 @@
+권용민 / KWON YONGMIN
+Automotive Engineering Portfolio
+2026년 10월 기준 / As of October 2026
+
+연락처 / Contact
+smile10203@ajou.ac.kr
+GitHub: https://github.com/FlyingDogPooBug
+LinkedIn: https://www.linkedin.com/in/%EC%9A%A9%EB%AF%BC-%EA%B6%8C-bb807939b/
+
+학력 / Education
+아주대학교 기계공학 전공 · 미래자동차 복수전공
+2022년 3월 입학 · 2029년 3월 졸업예정
+Ajou University: Mechanical Engineering; double major in Future Automotive Engineering.
+Entered March 2022; expected graduation March 2029.
+
+관심 분야 / Interests
+차량시험, 승차감·조종안정성, 서스펜션 설계·세팅
+Vehicle testing, ride and handling, suspension design and setup.
+
+주요 경험 / Selected Experience
+A-FA Formula Student, 2022.03-2026.08
+- 2024-2025 시즌 드라이버, 2025-2026 시즌 팀장·서스펜션 담당.
+- SolidWorks 기반 프레임, 하드포인트, 지그와 브래킷 설계.
+- ANSYS 정적·비틀림강성 해석, Adams/Car 차량동역학, Altair Inspire 위상최적화 경험.
+- TIG·아크용접, 3D프린팅과 CFRP 성형.
+- 7회 주행으로 전륜 250/300 lb/in 스프링 세팅 비교. 해당 대표 사례의 전륜 롤 기울기 약 7.4% 감소 관찰.
+- 센서 로깅은 계측팀 담당. 본인은 직접 주행·세팅과 제공 데이터 분석. 프로그래밍 작업은 도움을 받음.
+- 벨크랭크 플레이트 CAD 질량: 전륜 51.21→26.25 g, 후륜 58.13→28.27 g.
+- 외부 댐퍼 시험 협의·결과자료 확보, 섀시 설계보고서 작성, 스터디 운영, 후원사 보고·인수인계.
+- 배터리 열관리 팀 프로젝트: 부품 설계·3D프린팅·용접·정적해석 및 발표보고서 초안 작성·통합. CFD/자동화와 현장 발표는 팀원 담당.
+
+Driver in 2024-2025; team leader and suspension lead in 2025-2026.
+Designed frames, suspension hardpoints, jigs and brackets, with fabrication and analysis experience.
+Analyzed seven track runs comparing front spring rates. In the selected representative case, front roll gradient decreased by approximately 7.4%. Sequential-test limitations were documented; no lap-time or grip improvement is claimed.
+Sensor logging was performed by the instrumentation team; programming received assistance.
+Reduced front and rear bellcrank CAD mass by 48.7% and 51.4%; CAD comparisons are distinct from fabricated-part scale measurements.
+Contributed mechanical design, 3D printing, welding, static analysis, and report drafting and integration to the battery thermal-management team project. Teammates handled CFD/automation and the competition presentation.
+
+0ERROR 냉각 테스트베드 / Cooling testbed, 2026-현재
+반복 가능한 냉각·고장 시험조건을 준비하는 프로젝트의 기계 설계·제작 역할.
+현재 기록은 설계·부품 검토·조립 준비 단계.
+Mechanical design and fabrication contribution; records describe design, component review and assembly preparation.
+
+대외협력·후원사 소통 / External Collaboration
+외부 댐퍼 시험의 제원·도면·조건을 협의하고 네오테크의 시험 완료 안내와 보고서 수신.
+MakeIT과 부품 제작·파트별 발주·차기 팀 인수인계 방식 협의 및 벨크랭크 수령 확인.
+써보레·GB Industries/NOVAX에 장비 사용자료와 시즌 결과를 보고하고 후원사 답장 확인.
+Synology 콘텐츠의 사진·원고 수정 소통과 진행 승인, 게시 인사이트 보고를 조율하고 차기 담당자 소개.
+KISSsoft에 후임 팀장을 연결해 담당자 등록과 지원 지속 의사 확인.
+SOLIDWORKS 팀 후원 소프트웨어 안내를 팀원·후임에게 전달.
+해외 부품 주문과 관련한 영문 실무 연락 수행.
+Coordinated external test requirements and received a completed damper-test report.
+Agreed fabrication, ordering and handover procedures with MakeIT.
+Shared equipment-use evidence and season reports with sponsors, and connected the next team leader with follow-up contacts.
+Received and shared team software-sponsorship guidance and handled practical component-order communication in English.
+Private contacts, license credentials, support terms and correspondence are omitted.
+
+연구·집필 / Research & Writing
+- 「실차 주행 계측 기반 대학생 Formula 차량의 전륜 스프링 레이트 변화에 따른 롤 응답 분석」
+- 「Formula Student 팀의 설계 프로세스 체계화와 지식관리 방안에 관한 연구」
+첫 연구는 권용민 단독저자, 둘째는 권용민·남선우 공동저자. 지식관리 연구는 체계 제안 단계로 효과를 실증한 결과와 구분.
+두 연구 모두 2026 한국자동차공학회 추계학술대회 포스터 발표 채택. 2026.11.20 발표 예정.
+The roll-response paper is sole-authored; the knowledge-management paper is coauthored with Sunwoo Nam and proposes a framework without verified outcome improvements.
+Both studies accepted for poster presentation at the 2026 KSAE Autumn Conference; presentations scheduled for November 20, 2026.
+- 오토저널 대학생 객원기자. 「설계에서 트랙까지, Formula Student Korea 2026」, 2026년 10월호 게재.
+Student guest reporter for KSAE Auto Journal; authored an article on Formula Student Korea 2026, published in October 2026.
+
+팀 수상 / Team Awards
+2026.10 KSAE 대학생 자작자동차 발표대회 우수상
+2026.09 경기청년창업축제 연합창업동아리 경진대회 우수상
+2025 Formula Student Korea e-Formula 에너지효율 우수상
+2023 KSAE e-Formula 동상 및 기술아이디어 금상
+2022 KSAE Baja 장려상
+All awards above are team awards, not individual competition wins.
+
+개인 공모전 수상 / Individual Competition Awards
+2025학년도 수업 참여 사례 공모전 수상 · 아주대학교 교수학습개발센터, 2026.01 공식 안내
+2025 Class Participation Experience Competition: award recipient, Ajou University; notified January 2026.
+2025 ISTANS 산업통계 우수활용사례 공모전 장려상
+2025.06 아주 유니버스 전공 홍보 영상 시나리오 공모전 장려상
+2025 ISTANS industry-statistics use-case competition: Encouragement Award.
+June 2025 Ajou Universe major-introduction video-scenario competition: Encouragement Award.
+
+공모전·기획 작업 / Ideas & Competition Work
+- ISTANS: 자동차·제조업 통계 비교, 활용수기와 발표자료 작성.
+- Pre-Lab Self Check: 실험 전 QR 점검·기록·반복 위험 알림을 연결하는 정책 제안.
+- 병원 길찾기: 지도·픽토그램·QR 웹 안내를 연결하는 개인 서비스 제안.
+- AI 열람실: 수요 예측과 시간·공간 안내를 연결하는 대학혁신 정책·발표자료.
+- 실패를 데이터로 바꾸는 법: 실패 기록·회고·개선 루프를 다룬 3차시 학습 자료.
+- 제천 제조업 데이터 정책(2026.10.12 이메일 제출): 0ERROR 팀의 총괄 기획·보고서 통합. 데이터 분석은 팀 내 역할을 구분.
+- LiftGuard Edge(2026.10.12 이메일 제출): 0ERROR 팀의 승강기 상태점검 신기술 개념 제안.
+- 첫실험 패스: 해양바이오자원 활용을 위한 후속지원 서비스 제안.
+
+- 데이터+AI 혁신 챌린지: 공개 유압설비 데이터 2,205주기·26,460구간의 분할 레시피와 평가 누수 점검. AI 보조 분석·원고 정리, 2026.10.16 접수 완료. 모델 성능 또는 자체 테스트베드 실험 성과와 구분.
+- 교통안전: 방향지시등 캠페인의 A2 포스터·30초 숏폼·2분 광고영상. AI 활용 팀 작업.
+- 화성 AI 콘텐츠: 숏폼38초·CF35초·CM송약44초. 작품기술서상 기획 역할, 제작·편집은 팀 분담.
+- 공공의료: 카드뉴스6장·52초숏폼·수기, AI 활용 콘텐츠의 기획 및 본인 원고 교정. 제작·제출준비 단계.
+- 청년 프로젝트 첫 검증 지원제: 온라인 정책 원고와10쪽 시범운영안. 운영 실적이 아닌 제안.
+- STARTUP WATER·우리 모두의R&D: 기존0ERROR 상태감시 구상의 물산업·냉각전력 점검 적용 제안. 별도 현장 검증 완료 제품으로 세지 않음.
+
+제안서의 기대효과, 도입 계획과 개발 구상은 실제 운영·개발 완료 실적과 구분합니다.
+
+Prepared statistics reports, safety and service proposals, campus-resource policy materials and a three-part learning resource.
+For team 0ERROR’s Jecheon entry, responsible for overall planning and report integration, with separate analysis responsibilities within the team.
+LiftGuard Edge and First Experiment Pass are concepts and proposals, not deployed products or services.
+Expected benefits, rollout plans and technical concepts are distinguished from completed implementation and measured outcomes.
+
+기타 경험 / Other Experience
+영어학원 조교, 2026.09-현재 / English academy teaching assistant.
+아주대학교 경영대학원 교학팀 근로학생, 2025.06-2026.05 / University administrative support.
+공군 일반차량운전병, 2023.09.18-2025.06.18 / ROK Air Force vehicle driver.
+아름다운가게 봉사 116시간, 청소년 학습 멘토링 40시간 / Beautiful Store volunteering: 116 h; youth mentoring: 40 h.
+
+어학·자격 / Languages & Qualifications
+OPIc English IH, 2026.09.30
+1종보통·1종대형 운전면허 / Korean Class 1 Ordinary and Class 1 Large driving licenses.
+프로그래밍기능사, 2024.12 / Craftsman Programming.
+지게차운전기능사, 2025.06 / Craftsman Fork Lift Truck Operator.
+Python 기초 학습 중. 자격증을 독립 코딩 숙련도로 표현하지 않음.
+Currently learning Python fundamentals; certification is not presented as independent programming proficiency.
+
+Additional 2026 work
+Data + AI Innovation Challenge: an AI-assisted public-data recipe and split-leakage audit; submission confirmed on October 16, 2026. This is not a model-performance or in-house experimental result.
+AI-assisted road-safety poster and videos; three Hwaseong city-content works, with planning credited to me and production/editing assigned to teammates.
+Public-healthcare cards, short and essay; youth first-validation policy proposal; water-industry and carbon-neutrality applications of the existing 0ERROR concept.
+Prepared media, proposals, confirmed submission and awards are recorded as distinct statuses.

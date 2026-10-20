@@ -1,0 +1,12 @@
+# Local environment and intermediate material
+.env
+.env.*
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+work/
+mail-review/
+*.eml
+*.msg

@@ -1,0 +1,12 @@
+.battery-card{display:grid;grid-template-columns:1.1fr 1fr;gap:38px;margin-top:32px;border-top:1px solid var(--line);padding-top:32px;width:100%;align-items:center}
+.battery-art{background:#e8ece6;min-width:0;padding:47px 16px 38px;height:310px;display:flex;align-items:center}
+.battery-art img{width:100%;height:100%;object-fit:contain}
+.battery-art .art-top{color:#566157}
+.battery-art .art-foot{font-size:8px;color:#566157;gap:10px}
+.battery-card .project-meta{padding:20px 0}
+.battery-card .project-meta h3{font-size:26px}
+.battery-card .project-arrow{top:43px}
+.battery-card .project-meta p{max-width:450px}
+@media(max-width:800px){.battery-card{gap:24px}.battery-art{height:285px}.battery-card .project-meta h3{font-size:23px}}
+@media(max-width:640px){.battery-card{grid-template-columns:1fr;gap:0;margin-top:30px;padding-top:27px}.battery-art{height:245px;padding:48px 12px 35px}.battery-card .project-meta{padding:20px 0 5px}.battery-card .project-meta h3{font-size:20px}}
+@media print{.battery-art{display:none}.battery-card{display:block;margin-top:15px;padding-top:15px}.battery-card .project-meta{padding:0}.battery-card .project-meta h3{font-size:18px}}
