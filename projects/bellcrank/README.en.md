@@ -43,3 +43,11 @@ The useful design balances the analysis result with load-transfer regions, fabri
 Source: my chassis design report, pages 200–204 (bellcranks), 218–219 (length adjustment), and 225–227 and 234 (jig and retained fabrication method). CAD mass and scale photographs are on pages 203 and 204. Images come from the same report.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 17 pages](../../site/downloads/bellcrank.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/bellcrank/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

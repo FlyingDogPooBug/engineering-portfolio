@@ -43,3 +43,11 @@ Contacted an overseas component supplier on behalf of the team to request a deli
 Sources: January 2026 KATECH test correspondence; April 2026 NEOTECH test-completion notice and report delivery; June 2026 MakeIT fabrication and operations correspondence; March–September 2026 Synology content coordination and sponsor-report/handover replies; SOLIDWORKS guidance forwards; and overseas order correspondence.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 10 pages](../../site/downloads/collaboration.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/collaboration/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

@@ -29,3 +29,11 @@ The portal’s completed-submission screen is dated October 16, 2026. This demon
 Sources: the data-recipe entry, derived CSV, audit results, status record and submission screenshot in Data_AI_Challenge_2026. The saved data were checked read-only.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 6 pages](../../site/downloads/datarecipe.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/datarecipe/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

@@ -29,3 +29,11 @@ Prepared an analysis report, summary and application, then submitted them by ema
 Sources: the Jecheon competition application, data-analysis report and summary, including its role table. Application and my outgoing submission email dated October 12, 2026.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/jecheon.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/jecheon/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

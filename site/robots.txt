@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/sitemap.xml

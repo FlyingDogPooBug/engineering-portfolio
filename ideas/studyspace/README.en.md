@@ -29,3 +29,11 @@ The verified work is the policy proposal and presentation. It does not establish
 Source: the ten-page 2025 university-innovation policy presentation bearing my name. Proposed budgets and improvement percentages are not used as achieved results.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/studyspace.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/studyspace/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

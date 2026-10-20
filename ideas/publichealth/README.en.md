@@ -61,3 +61,11 @@ For inline playback, open the [live media case studies](https://yongmin-engineer
 Sources: six final card images, the 52-second short, essay, work descriptions and source/AI-production records. Prepared outputs are distinguished from entry-form state.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 11 pages](../../site/downloads/publichealth.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/publichealth/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

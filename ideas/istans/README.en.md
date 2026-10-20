@@ -29,3 +29,11 @@ This is an experience in working with statistics and documenting an interpretati
 Sources: my ISTANS report in PDF/HWPX and accompanying presentation. The award is supported by my earlier confirmation in the project chats and the consolidated activity and award record.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 6 pages](../../site/downloads/istans.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/istans/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

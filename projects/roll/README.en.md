@@ -34,3 +34,11 @@ These were sequential runs, so tire temperature, pressure, road conditions and d
 Sources: the selected representative case, “250300lb.pdf”; my named 2026 KSAE autumn abstract, pages 1–2; and the consolidated experience record. The 7.4% refers to the suspension-displacement-based front roll gradient in this case.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 16 pages](../../site/downloads/roll.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/roll/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

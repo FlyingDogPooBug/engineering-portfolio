@@ -29,3 +29,11 @@ Submitted the team application and concept proposal by email as the team represe
 Sources: the team application and new-technology concept PDF, dated October 12, 2026. My outgoing submission email is dated October 12, 2026, and I am listed as the team representative.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/liftguard.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/liftguard/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

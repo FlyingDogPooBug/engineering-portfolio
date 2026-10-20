@@ -29,3 +29,11 @@ This is an application proposal derived from the existing 0ERROR project. It doe
 Sources: Startup Water idea proposal, application and preparation notes, including Word conversions. Personal consent forms and signatures are not published.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 6 pages](../../site/downloads/watermonitoring.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/watermonitoring/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

@@ -37,3 +37,11 @@ Instrumentation, aerodynamics and battery development were shared team responsib
 Sources: experience record, chassis-design and structural-analysis study report, external-test and sponsor correspondence, and the coauthored Formula Student design-process and knowledge-management paper, pages 1, 3 and 5–8. The official study record totals five sessions and 20 hours 30 minutes.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 17 pages](../../site/downloads/leadership.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/leadership/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

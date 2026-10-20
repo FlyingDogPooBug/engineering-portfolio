@@ -29,3 +29,11 @@ Institution counts, team capacity, budgets and completion targets are design ass
 Sources: youth-policy entry text, online-form copy and the ten-page “First Validation Support for Youth Projects” supporting document.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 8 pages](../../site/downloads/youthvalidation.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/youthvalidation/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

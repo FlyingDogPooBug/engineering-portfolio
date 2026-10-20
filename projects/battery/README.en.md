@@ -39,3 +39,11 @@ The team used track-current-based heat inputs, compared the model with measured 
 Sources: team report on track-data validation and CFD automation for battery thermal management, pages 1 and 3–6; report-drafting and role-allocation correspondence, September 2–9, 2026; and my experience record. Image: Figure 9, page 6.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/battery.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/battery/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

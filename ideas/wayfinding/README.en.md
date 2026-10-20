@@ -29,3 +29,11 @@ Submitted an individual application and a four-page proposal. The December 2025 
 Sources: my individual application and hospital-wayfinding proposal. Application dated November 12, 2025; official result notice dated December 23, 2025.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/wayfinding.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/wayfinding/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

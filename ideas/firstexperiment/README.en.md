@@ -29,3 +29,11 @@ The proposal and a participant declaration bearing my name are available. Instit
 Sources: the “First Experiment Pass” proposal, supporting-reference bundle and my participant declaration, dated October 2026.
 
 This document mirrors the verified public portfolio. Individual responsibilities, team work, proposals, submissions, awards and completed work are distinguished.
+
+<!-- detailed-casebook -->
+
+## Full technical record
+
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 8 pages](../../site/downloads/firstexperiment.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/firstexperiment/)
+
+The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

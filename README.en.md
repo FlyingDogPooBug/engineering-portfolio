@@ -1,4 +1,11 @@
 # Yongmin Kwon | Engineering Portfolio
+<!-- casebook-index -->
+
+## Detailed project records
+
+20 projects now include a three-chapter record and a PDF of at least three pages. [Browse the detailed casebook](CASEBOOK.md) and [A-FA design dossier](docs/afa-design/README.md). The expanded technical documentation is in Korean.
+
+<!-- /casebook-index -->
 
 **Vehicle testing · Suspension design · Fabrication · Technical documentation**
 
@@ -56,3 +63,4 @@ python -m http.server 8000 --directory site
 ---
 
 As of October 2026. AI assisted the documentation and website implementation. Personal responsibilities and teammates’ contributions are identified in each case.
+

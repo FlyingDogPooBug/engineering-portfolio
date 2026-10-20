@@ -107,18 +107,14 @@
     ideasList.innerHTML = entries.map(entry => {
       const item = entry[lang];
       const index = String(competitionEntries.indexOf(entry) + 1).padStart(2, '0');
-      return `<button type="button" class="idea-entry ${entry.cover ? 'has-preview' : ''}" data-project="${escape(entry.id)}"><span class="idea-index">${index}</span>${entry.cover ? `<img class="idea-preview ${entry.coverFit === 'contain' ? 'contain' : ''}" src="${escape(entry.cover)}" alt="" loading="lazy">` : ''}<div class="idea-entry-copy"><div class="idea-entry-top"><span class="idea-category">${escape(item.category)}</span><span>${escape(entry.year)}</span></div><h3>${escape(item.title)}</h3><p>${escape(item.short)}</p></div><span class="idea-status ${entry.awarded || entry.submitted ? 'awarded' : ''}">${escape(item.status)}</span><span class="idea-entry-arrow" aria-hidden="true">↗</span></button>`;
+      return `<a href="cases/${escape(entry.id)}/" class="idea-entry ${entry.cover ? 'has-preview' : ''}" data-project="${escape(entry.id)}"><span class="idea-index">${index}</span>${entry.cover ? `<img class="idea-preview ${entry.coverFit === 'contain' ? 'contain' : ''}" src="${escape(entry.cover)}" alt="" loading="lazy">` : ''}<div class="idea-entry-copy"><div class="idea-entry-top"><span class="idea-category">${escape(item.category)}</span><span>${escape(entry.year)}</span></div><h3>${escape(item.title)}</h3><p>${escape(item.short)}</p></div><span class="idea-status ${entry.awarded || entry.submitted ? 'awarded' : ''}">${escape(item.status)}</span><span class="idea-entry-arrow" aria-hidden="true">↗</span></a>`;
     }).join('');
     document.getElementById('idea-count').textContent = lang === 'ko' ? `${entries.length}개 작업 / 전체 ${competitionEntries.length}개` : `${entries.length} OF ${competitionEntries.length} ENTRIES`;
     document.querySelectorAll('.idea-filters [data-filter]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.filter === ideaFilter)));
   }
 
   function openProject(id) {
-    currentProject = id;
-    renderProject(id);
-    dialog.showModal();
-    dialog.scrollTop = 0;
-    document.body.classList.add('modal-open');
+    window.location.href = `cases/${encodeURIComponent(id)}/?lang=${lang}`;
   }
 
   function renderProject(id) {
@@ -148,10 +144,10 @@
     try { localStorage.setItem('portfolio-language', lang); } catch {}
     applyLanguage();
   });
-  document.querySelectorAll('[data-project]').forEach(button => button.addEventListener('click', () => openProject(button.dataset.project)));
+  document.querySelectorAll('[data-project]').forEach(button => button.addEventListener('click', event => { event.preventDefault(); openProject(button.dataset.project); }));
   ideasList.addEventListener('click', event => {
     const button = event.target.closest('button[data-project]');
-    if (button) openProject(button.dataset.project);
+    if (button) { event.preventDefault(); openProject(button.dataset.project); }
   });
   document.querySelectorAll('.idea-filters [data-filter]').forEach(button => button.addEventListener('click', () => {
     ideaFilter = button.dataset.filter;
