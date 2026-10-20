@@ -1,6 +1,6 @@
 # 냉각 상태와 전력을 함께 판단하다
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/coolingenergy/) · [상세 PDF · 5쪽](../../site/downloads/coolingenergy.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/coolingenergy/) · [상세 PDF · 5쪽](../../site/downloads/coolingenergy.pdf) · [English summary](README.en.md)
 
 > IDEAS / CARBON-NEUTRALITY R&D · R&D 제안서 작성 / 접수 전
 

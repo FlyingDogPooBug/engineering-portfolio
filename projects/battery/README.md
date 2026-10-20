@@ -1,6 +1,6 @@
 # 해석한 형상을, 실차 부품으로.
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/battery/) · [상세 PDF · 7쪽](../../site/downloads/battery.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/battery/) · [상세 PDF · 7쪽](../../site/downloads/battery.pdf) · [English summary](README.en.md)
 
 > 03 / THERMAL MANAGEMENT · TEAM PROJECT · 팀 부품 제작·장착 / KSAE 발표대회 팀 우수상
 

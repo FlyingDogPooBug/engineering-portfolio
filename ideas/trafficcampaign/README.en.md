@@ -1,6 +1,6 @@
 # Indicators as subtitles for a driver’s intention
 
-[Portfolio home](../../README.en.md) · [한국어](README.md) · [Live portfolio](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/#ideas)
+[Portfolio home](../../README.en.md) · [한국어](README.md) · [Live portfolio](https://yongmin.gardengnat12.chatgpt.site/#ideas)
 
 > IDEAS / ROAD-SAFETY CAMPAIGN · As of October 2026
 
@@ -33,7 +33,7 @@ Completed media files are available. The poster and two video formats are comple
 - [Turn on the subtitles · 30-second short](../../site/assets/competitions/traffic-short.mp4)
 - [Subtitles for an intention · Two-minute film](../../site/assets/competitions/traffic-film.mp4)
 
-For inline playback, open the [live media case studies](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/#ideas).
+For inline playback, open the [live media case studies](https://yongmin.gardengnat12.chatgpt.site/#ideas).
 
 ---
 
@@ -45,6 +45,6 @@ This document mirrors the verified public portfolio. Individual responsibilities
 
 ## Full technical record
 
-[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 8 pages](../../site/downloads/trafficcampaign.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/trafficcampaign/)
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 8 pages](../../site/downloads/trafficcampaign.pdf) · [Web case study](https://yongmin.gardengnat12.chatgpt.site/cases/trafficcampaign/)
 
 The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

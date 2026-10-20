@@ -1,6 +1,6 @@
 # 첫실험 패스 · 멈춘 연구의 다음 단계
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/firstexperiment/) · [상세 PDF · 8쪽](../../site/downloads/firstexperiment.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/firstexperiment/) · [상세 PDF · 8쪽](../../site/downloads/firstexperiment.pdf) · [English summary](README.en.md)
 
 > IDEAS / RESEARCH-SUPPORT SERVICE · 서비스 제안서 작성
 

@@ -1,6 +1,6 @@
 # 가벼운 형상을, 만들 수 있는 부품으로
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/bellcrank/) · [상세 PDF · 17쪽](../../site/downloads/bellcrank.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/bellcrank/) · [상세 PDF · 17쪽](../../site/downloads/bellcrank.pdf) · [English summary](README.en.md)
 
 > 02 / DESIGN & FABRICATION · 설계·구조 검토·제작 완료
 

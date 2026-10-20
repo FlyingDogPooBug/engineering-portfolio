@@ -1,6 +1,6 @@
 # 같은 운전주기가 평가에 섞이지 않도록
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/datarecipe/) · [상세 PDF · 6쪽](../../site/downloads/datarecipe.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/datarecipe/) · [상세 PDF · 6쪽](../../site/downloads/datarecipe.pdf) · [English summary](README.en.md)
 
 > IDEAS / DATA EVALUATION · 2026.10.16 접수 완료
 

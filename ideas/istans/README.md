@@ -1,6 +1,6 @@
 # 자동차 산업을 계량적으로 이해하다
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/istans/) · [상세 PDF · 6쪽](../../site/downloads/istans.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/istans/) · [상세 PDF · 6쪽](../../site/downloads/istans.pdf) · [English summary](README.en.md)
 
 > IDEAS / INDUSTRY DATA · 2025 개인 장려상
 

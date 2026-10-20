@@ -1,6 +1,6 @@
 # 순환수 설비의 변화를 함께 살피다
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/watermonitoring/) · [상세 PDF · 6쪽](../../site/downloads/watermonitoring.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/watermonitoring/) · [상세 PDF · 6쪽](../../site/downloads/watermonitoring.pdf) · [English summary](README.en.md)
 
 > IDEAS / WATER-INDUSTRY PROPOSAL · 물산업 아이디어 제안서 작성
 

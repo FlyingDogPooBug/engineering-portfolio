@@ -11,7 +11,7 @@
 
 **차량시험 · 서스펜션 설계 · 제작 · 기술 문서화**
 
-[웹 포트폴리오](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site) · [한·영 프로필 PDF](site/assets/yongmin-profile.pdf) · [English](README.en.md)
+[웹 포트폴리오](https://yongmin.gardengnat12.chatgpt.site) · [한·영 프로필 PDF](site/assets/yongmin-profile.pdf) · [English](README.en.md)
 
 아주대학교에서 기계공학을 전공하고 미래자동차를 복수전공하고 있습니다. Formula Student 팀 A-FA에서 드라이버, 팀장과 서스펜션 담당을 경험했습니다. 직접 만들고 주행으로 확인하며, 설계 판단의 근거와 다음 팀이 이어 갈 수 있는 기록을 남깁니다.
 

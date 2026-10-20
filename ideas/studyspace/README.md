@@ -1,6 +1,6 @@
 # 열람실 혼잡을 예측하고 공간을 나누다
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/studyspace/) · [상세 PDF · 7쪽](../../site/downloads/studyspace.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/studyspace/) · [상세 PDF · 7쪽](../../site/downloads/studyspace.pdf) · [English summary](README.en.md)
 
 > IDEAS / DATA-INFORMED POLICY · 정책·발표자료 작성
 

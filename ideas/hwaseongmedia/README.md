@@ -1,6 +1,6 @@
 # 화성을 이야기하는 세 가지 형식
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/hwaseongmedia/) · [상세 PDF · 7쪽](../../site/downloads/hwaseongmedia.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/hwaseongmedia/) · [상세 PDF · 7쪽](../../site/downloads/hwaseongmedia.pdf) · [English summary](README.en.md)
 
 > IDEAS / AI-ASSISTED CITY CONTENT · 숏폼·CF·CM송 제작 / 접수 미확인
 

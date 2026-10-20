@@ -1,6 +1,6 @@
 # A-FA 설계보고서 상세 기록
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/afa-design/) · [상세 PDF · 31쪽](../../site/downloads/afa-design.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/afa-design/) · [상세 PDF · 31쪽](../../site/downloads/afa-design.pdf) · [English summary](README.en.md)
 
 > A-FA / ENGINEERING DESIGN DOSSIER · 개인 담당 영역 중심의 설계 근거 · 팀 도판은 출처와 기여 구분
 

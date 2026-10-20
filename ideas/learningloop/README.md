@@ -1,6 +1,6 @@
 # 실패를 데이터로 바꾸는 법
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/learningloop/) · [상세 PDF · 7쪽](../../site/downloads/learningloop.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/learningloop/) · [상세 PDF · 7쪽](../../site/downloads/learningloop.pdf) · [English summary](README.en.md)
 
 > IDEAS / LEARNING CONTENT · 3차시 학습자료 작성
 

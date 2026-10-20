@@ -6,6 +6,6 @@ A detailed record of frame assumptions, motion ratios, damper data, bellcrank lo
 
 ## Full technical record
 
-[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 31 pages](../../site/downloads/afa-design.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/afa-design/)
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 31 pages](../../site/downloads/afa-design.pdf) · [Web case study](https://yongmin.gardengnat12.chatgpt.site/cases/afa-design/)
 
 The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

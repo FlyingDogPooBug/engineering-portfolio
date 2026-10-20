@@ -9,7 +9,7 @@
 
 **Vehicle testing · Suspension design · Fabrication · Technical documentation**
 
-[Live portfolio](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site) · [Bilingual profile PDF](site/assets/yongmin-profile.pdf) · [한국어](README.md)
+[Live portfolio](https://yongmin.gardengnat12.chatgpt.site) · [Bilingual profile PDF](site/assets/yongmin-profile.pdf) · [한국어](README.md)
 
 I study Mechanical Engineering with a double major in Future Automotive Engineering at Ajou University. Through Formula Student team A-FA, I have worked as a driver, team leader and suspension lead. I build, test on track, and document the reasoning behind design decisions so the next team can continue the work.
 

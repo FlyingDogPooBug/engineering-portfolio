@@ -1,6 +1,6 @@
 # 제천 제조업 데이터에서 실증지원 정책으로
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/jecheon/) · [상세 PDF · 7쪽](../../site/downloads/jecheon.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/jecheon/) · [상세 PDF · 7쪽](../../site/downloads/jecheon.pdf) · [English summary](README.en.md)
 
 > IDEAS / PUBLIC DATA & POLICY · 2026.10.12 팀 대표 이메일 제출
 

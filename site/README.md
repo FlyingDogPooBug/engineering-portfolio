@@ -1,6 +1,6 @@
 # Portfolio website source
 
-[Live website](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site) · [Repository overview](../README.md)
+[Live website](https://yongmin.gardengnat12.chatgpt.site) · [Repository overview](../README.md)
 
 Buildless HTML, CSS and JavaScript. Source and media mirror the public portfolio as of October 20, 2026.
 

@@ -1,6 +1,6 @@
 # 병원 안내지도와 QR 길찾기를 하나로
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/wayfinding/) · [상세 PDF · 7쪽](../../site/downloads/wayfinding.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/wayfinding/) · [상세 PDF · 7쪽](../../site/downloads/wayfinding.pdf) · [English summary](README.en.md)
 
 > IDEAS / SERVICE DESIGN · 개인 제안 제출 / 수상 미선정
 

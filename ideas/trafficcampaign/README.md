@@ -1,6 +1,6 @@
 # 방향지시등은, 생각을 전하는 자막
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/trafficcampaign/) · [상세 PDF · 8쪽](../../site/downloads/trafficcampaign.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/trafficcampaign/) · [상세 PDF · 8쪽](../../site/downloads/trafficcampaign.pdf) · [English summary](README.en.md)
 
 > IDEAS / ROAD-SAFETY CAMPAIGN · 포스터·30초·2분 영상 제작 / 접수 미확인
 

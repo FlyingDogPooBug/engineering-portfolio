@@ -1,6 +1,6 @@
 # 다음 팀이 이해할 수 있도록.
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/leadership/) · [상세 PDF · 17쪽](../../site/downloads/leadership.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/leadership/) · [상세 PDF · 17쪽](../../site/downloads/leadership.pdf) · [English summary](README.en.md)
 
 > 04 / LEADERSHIP & DOCUMENTATION · 팀 운영·기술 문서화 / 지식관리 체계 제안
 

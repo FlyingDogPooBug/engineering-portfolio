@@ -1,6 +1,6 @@
 # 시험 조건부터, 다음 담당자까지.
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/collaboration/) · [상세 PDF · 10쪽](../../site/downloads/collaboration.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/collaboration/) · [상세 PDF · 10쪽](../../site/downloads/collaboration.pdf) · [English summary](README.en.md)
 
 > 05 / EXTERNAL COLLABORATION · 시험·제작·후원 협의 / 시즌 보고·인수인계
 

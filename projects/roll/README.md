@@ -1,6 +1,6 @@
 # 스프링 세팅을 숫자로 비교하다
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/roll/) · [상세 PDF · 16쪽](../../site/downloads/roll.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/roll/) · [상세 PDF · 16쪽](../../site/downloads/roll.pdf) · [English summary](README.en.md)
 
 > 01 / VEHICLE DYNAMICS · 실차 시험·분석 / 추계 포스터 채택·발표 예정
 

@@ -1,6 +1,6 @@
 # 공공의료, 우리 곁의 이야기
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/publichealth/) · [상세 PDF · 11쪽](../../site/downloads/publichealth.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/publichealth/) · [상세 PDF · 11쪽](../../site/downloads/publichealth.pdf) · [English summary](README.en.md)
 
 > IDEAS / PUBLIC-HEALTH COMMUNICATION · 카드뉴스·숏폼·수기 제작 / 제출 준비
 

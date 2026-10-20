@@ -1,6 +1,6 @@
 # Supporting the first test after an idea
 
-[Portfolio home](../../README.en.md) · [한국어](README.md) · [Live portfolio](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/#ideas)
+[Portfolio home](../../README.en.md) · [한국어](README.md) · [Live portfolio](https://yongmin.gardengnat12.chatgpt.site/#ideas)
 
 > IDEAS / YOUTH EDUCATION POLICY · As of October 2026
 
@@ -34,6 +34,6 @@ This document mirrors the verified public portfolio. Individual responsibilities
 
 ## Full technical record
 
-[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 8 pages](../../site/downloads/youthvalidation.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/youthvalidation/)
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 8 pages](../../site/downloads/youthvalidation.pdf) · [Web case study](https://yongmin.gardengnat12.chatgpt.site/cases/youthvalidation/)
 
 The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

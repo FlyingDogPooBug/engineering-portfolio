@@ -1,6 +1,6 @@
 # Three ways to tell a city’s story
 
-[Portfolio home](../../README.en.md) · [한국어](README.md) · [Live portfolio](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/#ideas)
+[Portfolio home](../../README.en.md) · [한국어](README.md) · [Live portfolio](https://yongmin.gardengnat12.chatgpt.site/#ideas)
 
 > IDEAS / AI-ASSISTED CITY CONTENT · As of October 2026
 
@@ -34,7 +34,7 @@ Three media pieces and their work descriptions are complete. The confirmed statu
 - [A city measured in happiness · 35-second CF](../../site/assets/competitions/hwaseong-cf.mp4)
 - [A bigger day in Hwaseong · Approx. 44-second CM song](../../site/assets/competitions/hwaseong-song.mp4)
 
-For inline playback, open the [live media case studies](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/#ideas).
+For inline playback, open the [live media case studies](https://yongmin.gardengnat12.chatgpt.site/#ideas).
 
 ---
 
@@ -46,6 +46,6 @@ This document mirrors the verified public portfolio. Individual responsibilities
 
 ## Full technical record
 
-[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/hwaseongmedia.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/hwaseongmedia/)
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/hwaseongmedia.pdf) · [Web case study](https://yongmin.gardengnat12.chatgpt.site/cases/hwaseongmedia/)
 
 The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.

@@ -1,6 +1,6 @@
 # LiftGuard Edge · 기존 승강기의 상태를 살피다
 
-[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/liftguard/) · [상세 PDF · 7쪽](../../site/downloads/liftguard.pdf) · [English summary](README.en.md)
+[포트폴리오 처음으로](../../README.md) · [웹 상세](https://yongmin.gardengnat12.chatgpt.site/cases/liftguard/) · [상세 PDF · 7쪽](../../site/downloads/liftguard.pdf) · [English summary](README.en.md)
 
 > IDEAS / CONDITION MONITORING · 2026.10.12 팀 대표 이메일 제출
 

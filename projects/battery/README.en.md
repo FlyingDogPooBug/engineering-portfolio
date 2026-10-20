@@ -1,6 +1,6 @@
 # Turning the analysis into a physical part.
 
-[Portfolio home](../../README.en.md) · [한국어](README.md) · [Live portfolio](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/#battery-project)
+[Portfolio home](../../README.en.md) · [한국어](README.md) · [Live portfolio](https://yongmin.gardengnat12.chatgpt.site/#battery-project)
 
 > 03 / THERMAL MANAGEMENT · TEAM PROJECT · As of October 2026
 
@@ -44,6 +44,6 @@ This document mirrors the verified public portfolio. Individual responsibilities
 
 ## Full technical record
 
-[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/battery.pdf) · [Web case study](https://yongmin-engineering-portfolio-oct26.gardengnat12.chatgpt.site/cases/battery/)
+[Three-chapter detailed case study in Korean](README.md) · [Detailed Korean PDF · 7 pages](../../site/downloads/battery.pdf) · [Web case study](https://yongmin.gardengnat12.chatgpt.site/cases/battery/)
 
 The expanded record includes original report figures, design reasoning, deliverables, personal and team roles, and the limits of the evidence.
